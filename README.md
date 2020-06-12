@@ -5,6 +5,8 @@ In each section bellow, I describe the pipeline used in a markdown file (follow 
 
 python scrips use python2.7.
 
+**Contact**: mafaldasferreira (at) cibio.up.pt
+
 ### Sections
 1. [Read processing, pseudoreferences and mapping](1.pseudoreferences_and_mapping/1.pseudoreferences_and_mapping.md)
 2. [Calling genotypes and creating a consensus fasta](2.call_variants_and_fasta_consensus/2.call_variants_and_fasta_consensus.md)
@@ -19,7 +21,7 @@ python scrips use python2.7.
 
 *Note*: This is not an exhaustive list and some may be missing. All software should be also detailed in each section.
 
-General data processing
+#### General data processing
 - [expHTS](https://github.com/msettles/expHTS)
 - [pseudo-it](https://github.com/bricesarver/pseudo-it)
 - [bwa](http://bio-bwa.sourceforge.net/bwa.shtml)
@@ -28,7 +30,7 @@ General data processing
 - [Genome Analysis Toolkit](https://gatk.broadinstitute.org/hc/en-us)
 - [bedtools](https://bedtools.readthedocs.io/en/latest/)
 
-Alignment processing
+#### Alignment processing
 - [AMAS](https://github.com/marekborowiec/AMAS)
 - [TriFusion](https://github.com/ODiogoSilva/TriFusion)
 - R package [biomaRt](https://bioconductor.org/packages/release/bioc/html/biomaRt.html)
@@ -36,7 +38,7 @@ Alignment processing
 - msa-split, from [phast](http://compgen.cshl.edu/phast/)
 - [Genomics General](https://github.com/simonhmartin/genomics_general)
 
-Phylogenomic or Population Genomic analyses
+#### Phylogenomic or Population Genomic analyses
 - [ASTRAL-III](https://github.com/smirarab/ASTRAL/)
 - [RAxML](https://cme.h-its.org/exelixis/web/software/raxml/)
 - [PAUP*](https://paup.phylosolutions.com) (implements SVDquartets)
@@ -50,4 +52,3 @@ Phylogenomic or Population Genomic analyses
 - R package [treeman](https://github.com/DomBennett/treeman)
 
 
-Contact: mafaldasferreira (at) cibio.up.pt
