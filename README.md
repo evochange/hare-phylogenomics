@@ -23,12 +23,14 @@ python scrips use python2.7.
 
 #### General data processing
 - [expHTS](https://github.com/msettles/expHTS)
-- [pseudo-it](https://github.com/bricesarver/pseudo-it)
 - [bwa](http://bio-bwa.sourceforge.net/bwa.shtml)
 - [samtools and bcftools](http://www.htslib.org)
 - [Picard Tools](https://broadinstitute.github.io/picard/)
 - [Genome Analysis Toolkit](https://gatk.broadinstitute.org/hc/en-us)
 - [bedtools](https://bedtools.readthedocs.io/en/latest/)
+
+#### Pseudo-reference generation
+- [pseudo-it](https://github.com/bricesarver/pseudo-it)
 
 #### Alignment processing
 - [AMAS](https://github.com/marekborowiec/AMAS)
