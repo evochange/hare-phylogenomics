@@ -15,7 +15,7 @@ python scrips use python2.7.
 7. [Estimating divergence and diversity per species](7.diversity_divergence_admixture/7.diversity_divergece_admixture.md)
 8. [Admixture analyses (Dmin, f-branch, fd, fhom, Dfoil)](8.admixture_analyses/8.admixture_analyses.md)
 
-###Links to the software used in this pipeline 
+### Links to the software used in this pipeline 
 
 *Note*: This is not an exhaustive list and some may be missing. All software should be also detailed in each section.
 
