@@ -15,5 +15,37 @@ python scrips use python2.7.
 7. [Estimating divergence and diversity per species](7.diversity_divergence_admixture/7.diversity_divergece_admixture.md)
 8. [Admixture analyses (Dmin, f-branch, fd, fhom, Dfoil)](8.admixture_analyses/8.admixture_analyses.md)
 
+Links to the software used in this pipeline (Note: this is not an exhaustive list):
+
+General data processing
+- [expHTS](https://github.com/msettles/expHTS)
+- [pseudo-it](https://github.com/bricesarver/pseudo-it)
+- [bwa](http://bio-bwa.sourceforge.net/bwa.shtml)
+- [samtools and bcftools](http://www.htslib.org)
+- [Picard Tools](https://broadinstitute.github.io/picard/)
+- [Genome Analysis Toolkit](https://gatk.broadinstitute.org/hc/en-us)
+- [bedtools](https://bedtools.readthedocs.io/en/latest/)
+
+Alignment processing
+- [AMAS](https://github.com/marekborowiec/AMAS)
+- [TriFusion](https://github.com/ODiogoSilva/TriFusion)
+- R package [biomaRt](https://bioconductor.org/packages/release/bioc/html/biomaRt.html)
+- [snp-sites](https://github.com/sanger-pathogens/snp-sites)
+- msa-split, from [phast](http://compgen.cshl.edu/phast/)
+- [Genomics General](https://github.com/simonhmartin/genomics_general)
+
+Phylogenomic or Population Genomic analyses
+- [ASTRAL-III](https://github.com/smirarab/ASTRAL/)
+- [RAxML](https://cme.h-its.org/exelixis/web/software/raxml/)
+- [PAUP*](https://paup.phylosolutions.com) (implements SVDquartets)
+- [PAML](http://abacus.gene.ucl.ac.uk/software/paml.html) (implements MCMCtree)
+- [SplitsTree4](http://www.splitstree.org)
+- [PhyloNet](https://bioinfocs.rice.edu/phylonet)
+- [TreeMix](https://bitbucket.org/nygcresearch/treemix/wiki/Home)
+- [Genomics General](https://github.com/simonhmartin/genomics_general)
+- R package [ape](https://cran.r-project.org/web/packages/ape/index.html)
+- R package [phangorn](https://github.com/KlausVigo/phangorn)
+- R package [treeman](https://github.com/DomBennett/treeman)
+
 
 Contact: mafaldasferreira (at) cibio.up.pt
